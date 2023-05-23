@@ -34,7 +34,7 @@ function Register() {
           setError("Week password")
         }
       });
-  }
+    }
   return (
     <div className="bg-gray-600 flex flex-col items-center justify-center min-h-screen md:py-2">
       <main className="flex items-center w-full px-2 md:px-20">
